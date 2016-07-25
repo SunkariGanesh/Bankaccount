@@ -1,2 +1,3 @@
 # Bankaccount
-script for bank account details
+#script for bank account details
+print("bankaccount number")
